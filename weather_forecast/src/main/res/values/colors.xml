@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22bb22bb</color>
+    <color name="colorPrimaryDark">#22bb22bb</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lineColor">#929b9b</color>
+    <color name="changeCityColor">#212b9c</color>
+    <color name="manageContentColor">#10bb22bb</color>
+</resources>

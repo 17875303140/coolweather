@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="设置" >
+        <menu>
+            <item
+                android:id="@+id/tv_manage_city"
+                android:icon="@drawable/manage_city"
+                android:title="切换城市" />
+        </menu>
+    </item>
+</menu>
